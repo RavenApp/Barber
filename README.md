@@ -6,8 +6,6 @@ This bot does not guarantee any financial gains. Be prepared to lose anything. S
 
 **IMPORTANT!!** This bot will use all the money in your binance account! Be careful!
 
-![barber demo](BARBER.mp4)
-
 ## Running (Tested on Linux)
 
 You must have Python version 3.6 or above!
