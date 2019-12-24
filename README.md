@@ -6,7 +6,7 @@ This bot does not guarantee any financial gains. Be prepared to lose anything. S
 
 **IMPORTANT!!** This bot will use all the money in your binance account! Be careful!
 
-## Running
+## Running (Tested on Linux)
 
 You must have Python version 3.6 or above!
 
@@ -16,6 +16,12 @@ Then clone this repo:
 
 ```
 $ git clone https://github.com/RavenApp/Barber && cd Barber
+```
+
+and install requirements from pip:
+
+```
+$ pip install -r requirements.txt
 ```
 
 ### Web Interface
@@ -42,9 +48,6 @@ The Barber waits until RVN is within ~10% of the day high or day low. If RVN is 
 
 Please do! Make your own version of Barber. By editing the `barber.py` file you can do just that, and quite easily because of the small Binance API wrapper I made! If you do this, consider commiting your file under `other/blah.py`!
 
-## Is this safe?
+## Security
 
-Look at the code, it's actually fairly simple. Look for any requests being sent outside of `binance.com` that could be stealing your keys. Look for anything shady whatsoever. I didn't put anything bad in there, but you don't know that. 
-
-
-
+Before running look at the code, it's actually fairly simple. Look for any requests being sent outside of `binance.com` that could be stealing your keys. Look for anything shady whatsoever. I didn't put anything bad in there, but you don't know that. If you don't know how to code, find someone who does, or at least try to read the code. It is extremely important that you or someone you trust reads the code and gives it the OK. All your cryptocurrency is at risk if you don't.
