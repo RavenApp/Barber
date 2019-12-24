@@ -15,13 +15,13 @@ Edit the `your_keys.py` file to reflect your binance API keys. You must gives th
 Then clone this repo:
 
 ```
-$ git clone https://github.com/RavenApp/Barber && cd Barber
+git clone https://github.com/RavenApp/Barber && cd Barber
 ```
 
 and install requirements from pip:
 
 ```
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Web Interface
