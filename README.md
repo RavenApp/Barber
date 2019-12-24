@@ -1,6 +1,6 @@
 # Barber
 
-A full-featured Ravencoin tradebot, including a web interface. By (RavenApps)[https://ravenapps.xyz]!
+A full-featured Ravencoin tradebot, including a web interface. By [RavenApps](https://ravenapps.xyz)!
 
 This bot does not guarantee any financial gains. Be prepared to lose anything. See security at the bottom.
 
