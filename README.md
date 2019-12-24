@@ -6,7 +6,7 @@ This bot does not guarantee any financial gains. Be prepared to lose anything. S
 
 **IMPORTANT!!** This bot will use all the money in your binance account! Be careful!
 
-![barber app](https://i.imgur.com/oMo4rdJ.png)
+![barber demo](BARBER.mp4)
 
 ## Running (Tested on Linux)
 
